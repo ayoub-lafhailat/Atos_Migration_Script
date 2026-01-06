@@ -1,0 +1,1 @@
+--access-file "C:\Users\ivanb\OneDrive\Bureaublad\Semester 2 (Fall 2025)\Group_Project\Atos-files\Project-files-Atos\Nieuw Order Systeem\nos_data.mdb" --table-name Klant --mysql-host localhost --mysql-port 3306 --mysql-db i545709_atosproject --mysql-user root --mysql-password root
