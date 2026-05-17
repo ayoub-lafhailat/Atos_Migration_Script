@@ -1,0 +1,3 @@
+--access-folder "Path to mdb folder" --mysql-host localhost --mysql-port 3306 --mysql-db atos_test --mysql-user root --mysql-password "password" --drop-existing
+
+Voor volledige uitleg parameters of command line, zie documentatie handleiding migratiescript atos.
